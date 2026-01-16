@@ -1,15 +1,9 @@
-<!--
-Profile README
-
-Tip: replace "samifesi" in the stats widgets with your GitHub username if different.
--->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:8b5cf6&height=170&section=header&text=Sam%20Ifesi&fontSize=54&fontColor=ffffff&animation=fadeIn" alt="Sam Ifesi banner" />
 </p>
 
 <p align="center">
-  <img src="./memoji.png" width="160" alt="Sam Ifesi memoji" />
+  <img src="./memoji-tilt.png" width="360" alt="Sam Ifesi memoji" />
 </p>
 
 <h3 align="center">Welcome to my GitHub Profile</h3>
@@ -111,5 +105,3 @@ Full-stack developer with a backend-first mindset. I build secure, performant we
 - X: https://x.com/Sam_Ifesi
 
 ---
-
-I care deeply about building systems that are clean, efficient, and scalable.
